@@ -1,0 +1,16 @@
+{
+  "name": "gobble-searchreplace",
+  "version": "0.1.0",
+  "description": "Search and replace text strings in your GobbleJS workflow",
+  "author": "Iván Sánchez Ortega <ivan@sanchezortega.es>",
+  "license": "Beerware",
+  "repository": "https://github.com/gobblejs/gobble-searchreplace",
+  "keywords": [
+    "gobble",
+    "gobble-plugin"
+  ],
+  "files": [
+    "gobble-searchreplace.js"
+  ],
+  "main": "gobble-searchreplace.js"
+}
